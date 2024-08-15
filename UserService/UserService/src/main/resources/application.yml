@@ -9,8 +9,8 @@ spring:
   datasource:
     url: jdbc:mysql://avnadmin:AVNS_bQBsh-dHmCoQVd6N44F@microservices-rishi-microservices1.e.aivencloud.com:24124/microservices?ssl-mode=REQUIRED
     # url: jdbc:mysql://localhost:3307/microservices
-    username: avnadmin
-    password: AVNS_bQBsh-dHmCoQVd6N44F
+    username: ********
+    password: ********
     # driver-class-name: com.mysql.jdbc.Driver
 
   jpa:
